@@ -1,0 +1,35 @@
+{
+  "name": "ether-extoria",
+  "version": "1.0.0",
+  "description": "EtherExtoria - Wallet generator & transfer orchestrator with proxychains and Tor. node -v18.20.4",
+  "main": "EtherExtoria.js",
+  "scripts": {
+    "start": "node EtherExtoria.js",
+    "wallet": "node wallet.js",
+    "wallet2": "node wallet2.js",
+    "wallet3": "node wallet3.js",
+    "wallet4": "node wallet4.js",
+    "wallet5": "node wallet5.js",
+    "wallet6": "node wallet6.js",
+    "wallet7": "node wallet7.js",
+    "transfer": "node transfer.js"
+  },
+  "keywords": [
+    "ethereum",
+    "wallet",
+    "proxychains",
+    "tor",
+    "automation"
+  ],
+  "author": {
+    "name": "Mohammed Zahid Wadiwale",
+    "url": "https://webaon.com/",
+    "email": "info@webaon.com"
+  },
+  "license": "BSD 3-Clause License",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "csv-writer": "^1.6.0",
+    "ethers": "^6.15.0"
+  }
+}
