@@ -22,7 +22,7 @@ created by **Mohammed Zahid Wadiwale**
 1. Clone the repository or download the files:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ZahidServers/EtherExtoria.git
 cd ether-extoria
 ```
 
